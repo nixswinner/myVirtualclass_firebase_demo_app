@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263272663165",
+    "firebase_url": "https://gess-ecommerce.firebaseio.com",
+    "project_id": "gess-ecommerce",
+    "storage_bucket": "gess-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263272663165:android:fccc0e9a15fc28dc7bc914",
+        "android_client_info": {
+          "package_name": "com.nix.myvirtualclassapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263272663165-62u8d8koq40vvfm9pjqj8m8npdkpdk6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyoi2lSG9zaSMC5UjsT9QI2zXR_pgZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263272663165-62u8d8koq40vvfm9pjqj8m8npdkpdk6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
