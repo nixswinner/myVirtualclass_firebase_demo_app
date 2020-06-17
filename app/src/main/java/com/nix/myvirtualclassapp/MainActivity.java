@@ -46,6 +46,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button btnfindMyLocation = findViewById(R.id.btnfindMyLocation);
+        btnfindMyLocation.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this,FindMyLocationActivity.class));
+            }
+        });
+
 
         FloatingActionButton fab = findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {

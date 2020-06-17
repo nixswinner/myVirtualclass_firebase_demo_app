@@ -70,4 +70,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/register_student" />
+
+
+    <Button
+        android:id="@+id/btnfindMyLocation"
+        android:layout_width="wrap_content"
+        android:text="Find Location"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
